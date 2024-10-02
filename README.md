@@ -111,5 +111,5 @@
    404 - в случае если не найден запрашиваемый ресурс
    500 - в случае если запрос не смог быть обработан на сервере
 ### Задание №3. Дополнительное задание. HTTP_Quest
-1. Congratulations, John Doe! You have successfully completed the quest! Here is your secret: IyMHGEUNDABhU0c=
-2. secret: IyMHGEUNDABhU0c=
+1. Congratulations, Sveatoslav Covas! You have successfully completed the quest! Here is your secret: OjoKFxEmEAktF1Q3ClcIP0JEVg==
+2. secret: OjoKFxEmEAktF1Q3ClcIP0JEVg==
