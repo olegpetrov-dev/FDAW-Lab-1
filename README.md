@@ -26,6 +26,7 @@
       Transfer-Encoding: chunked
       Connection: keep-alive
       ```
+
 2. Верный запрос
    - Какой метод HTTP был использован для отправки запроса? Ответ: POST
    - Какие заголовки были отправлены в запросе?
@@ -59,7 +60,7 @@
    ```
    GET / HTTP/1.1
    Host: sandbox.com
-   User-Agent: Sveatoslav Covas
+   User-Agent: Petrov Oleg
    ```
 2. Составьте `POST`-запрос к серверу по адресу `http://sandbox.com/cars`, указав в теле запроса следующие параметры:
     - `make: Toyota`
@@ -68,7 +69,7 @@
    ```
    POST /cars HTTP/1.1
    Host: sandbox.com
-   User-Agent: Sveatoslav Covas
+   User-Agent: Petrov Oleg
    Content-Type: application/json
    model=Corolla&make=Toyota&year=2020
    ```
@@ -83,7 +84,7 @@
    ```
    PUT /cars/1 HTTP/1.1
    Host: sandbox.com
-   User-Agent: Sveatoslav Covas
+   User-Agent: Petrov Oleg
    Content-Type: application/json
    {
      "make": "Toyota",
@@ -111,5 +112,5 @@
    404 - в случае если не найден запрашиваемый ресурс
    500 - в случае если запрос не смог быть обработан на сервере
 ### Задание №3. Дополнительное задание. HTTP_Quest
-1. Congratulations, Sveatoslav Covas! You have successfully completed the quest! Here is your secret: OjoKFxEmEAktF1Q3ClcIP0JEVg==
-2. secret: OjoKFxEmEAktF1Q3ClcIP0JEVg==
+1. Congratulations, Petrov Oleg! You have successfully completed the quest! Here is your secret: QfPRdhoAxiQ777ceOuj8mQ==
+2. secret: QfPRdhoAxiQ777ceOuj8mQ==
